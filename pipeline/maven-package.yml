@@ -11,7 +11,7 @@ inputs:
 
 outputs:
   - name: jar-file
-  - path: jar-file
+    path: jar-file
 
 run:
   path: mvn
